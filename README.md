@@ -1,7 +1,7 @@
-## OIiiE ><
+## OIIIE ><
 ![](https://blog-static.petlove.com.br/wp-content/uploads/2021/08/Gato-filhote-1.jpg?_gl=1*mfdve5*_gcl_au*NDQxNjAwNjgyLjE3MjI1NDI0NzY.&_ga=2.82160918.1280150887.1722542476-1154453604.1722542476)
 
-Meu nome é Giovanna Cristina
+**Meu nome é Giovanna Cristina**
 E eu amo gatos <3
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
